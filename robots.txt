@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cdn-cgi
+Allow: /cdn-cgi/imagedelivery/
+Sitemap: https://sbport.figweb.site/sitemap.xml
