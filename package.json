@@ -1,0 +1,18 @@
+{
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "description": "A modern portfolio and case studies website",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
